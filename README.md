@@ -1,6 +1,6 @@
 # AutoencoderNetwork IIITM Face
 
-The IIITM Face Emotion Dataset consists of 1928 images from 107 individuals, with a gender distribution of 87 males and 20 females. These images are categorized into three distinct vertical orientations: front, up, and down. The objective of this project is to employ an autoencoder network for dimensionality reduction.
+The IIITM Face Emotion Dataset (https://ieee-dataport.org/documents/iiitm-face-emotion) consists of 1928 images from 107 individuals, with a gender distribution of 87 males and 20 females. These images are categorized into three distinct vertical orientations: front, up, and down. The objective of this project is to employ an autoencoder network for dimensionality reduction.
 
 ## Autoencoder Network
 
