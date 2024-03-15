@@ -32,6 +32,6 @@ The training process utilizes the image generator to feed data into the model. T
 
 Post-training, it is observed that using only six times less data, images can be effectively reconstructed. The original image is depicted on the right, while the image reconstructed using reduced data is displayed on the left.
 
-<img src="https://github.com/piotrwojslawski/AutoencoderNetwork/assets/55345644/7d66aede-d8e9-4704-b388-d42201ec9239" alt="image" width="400">
-<img src="https://github.com/piotrwojslawski/AutoencoderNetwork/assets/55345644/18c34779-294c-4aa5-b94d-52cd08af50b0" alt="image" width="400">
+<img src="https://github.com/piotrwojslawski/AutoencoderNetwork/assets/55345644/7d66aede-d8e9-4704-b388-d42201ec9239" alt="image" width="300">
+<img src="https://github.com/piotrwojslawski/AutoencoderNetwork/assets/55345644/18c34779-294c-4aa5-b94d-52cd08af50b0" alt="image" width="300">
 
